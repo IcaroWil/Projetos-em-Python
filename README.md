@@ -11,7 +11,7 @@ Certifique-se de ter Python instalado. Você pode baixá-lo [aqui](https://www.p
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/Projetos-em-Python.git
+   git clone https://github.com/IcaroWil/Projetos-em-Python.git
 
 cd `seu-projeto`
 
