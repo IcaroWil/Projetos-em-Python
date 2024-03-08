@@ -17,7 +17,7 @@ cd `seu-projeto`
 
 pip install -r requirements.txt
 
-# Exemplo de código - Deve ser o nome do arquivo .py
+# Exemplo de código - Deve ser o nome do arquivo.py
 python `seu_script.py`
 
 Projetos-em-Python/
@@ -28,7 +28,7 @@ Projetos-em-Python/
 |-- README.md
 |-- requirements.txt
 
-Contato
+Contato:
 Para qualquer dúvida ou sugestão, entre em contato pelo email: icarofaria11@gmail.com
 
 Certifique-se de ajustar as informações conforme necessário para o seu projeto específico. Isso inclui a substituição de `seu-usuario`, `Projetos-em-Python`, e outros detalhes específicos do seu projeto.
