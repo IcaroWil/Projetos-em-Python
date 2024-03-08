@@ -2,7 +2,7 @@
 
 São packs de projetos que contém: Jogo de matematica; Temporizador; Tic-toc-toe; ScannerIP; Gerador de senhas e entre outros.
 
-## Pré-requisitos
+## Pré-requisitos:
 
 Certifique-se de ter Python instalado. Você pode baixá-lo [aqui](https://www.python.org/downloads/).
 
